@@ -1,0 +1,14 @@
+D:\Roman\tresh\BD\bdkp\bdkp\bin\x86\Debug\bdkp.exe
+D:\Roman\tresh\BD\bdkp\bdkp\bin\x86\Debug\bdkp.pdb
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.csprojResolveAssemblyReference.cache
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.Form1.resources
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.Properties.Resources.resources
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.csproj.GenerateResource.Cache
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.exe
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.pdb
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.Form2.resources
+D:\Roman\tresh\BD\bdkp\bdkp\bin\x86\Debug\Database2.accdb
+D:\Roman\tresh\BD\bdkp\bdkp\bin\x86\Debug\bdkp.exe.config
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.Form3.resources
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.Form4.resources
+D:\Roman\tresh\BD\bdkp\bdkp\obj\x86\Debug\bdkp.Form5.resources
